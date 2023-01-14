@@ -63,6 +63,7 @@ function
 
 # How to run :
 
+- open the project in your desired IDE (preferably Intellij IDEA)
 - simply uncomment the student, instructor and parent frames
 - the 1.1 - 1.5 tasks are verified when parsing the json file
 - 1.6 is used after filling some grades (after instructor GUI ) and opening the parent page
